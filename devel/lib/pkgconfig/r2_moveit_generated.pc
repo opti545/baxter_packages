@@ -1,0 +1,8 @@
+prefix=/home/josmiranda/bt_ws/devel
+
+Name: r2_moveit_generated
+Description: Description of r2_moveit_generated
+Version: 1.0.3
+Cflags: 
+Libs: -L/home/josmiranda/bt_ws/devel/lib 
+Requires: 

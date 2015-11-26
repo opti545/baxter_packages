@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "baxter_pykdl")
+set(baxter_pykdl_MAINTAINER "Kyle Maroney <kmaroney@rethinkrobotics.com>")
+set(baxter_pykdl_DEPRECATED "")
+set(baxter_pykdl_VERSION "0.1.0")
+set(baxter_pykdl_BUILD_DEPENDS "rospy" "baxter_core_msgs" "baxter_interface" "geometry_msgs" "sensor_msgs" "liburdfdom-dev" "python_orocos_kdl" "tf")
+set(baxter_pykdl_RUN_DEPENDS "rospy" "baxter_core_msgs" "baxter_interface" "geometry_msgs" "sensor_msgs" "urdfdom" "python_orocos_kdl" "tf")
+set(baxter_pykdl_BUILDTOOL_DEPENDS "catkin")
